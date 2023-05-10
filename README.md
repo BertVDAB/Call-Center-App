@@ -1,6 +1,10 @@
 <h1 align="center" id="title">Call Center App</h1>
 
+<p>In a call center you have to leave a message in the file log, so when a other operator calls, they get information about the file state</p>
+
 <p id="description"><b>Logging made easy -&gt; Stop repetitive typing -&gt; Click and paste!</b><br><br> For example, the company wants you to leave a message in the log input: "02/12 14:34 Called person did not reply left voicemail"<br> Why keep typing this every call you make? You can make typos forget date and time... <br><br>Automate it with the click of a button.</p>
+
+<p>
 
 <h2>🚀 Demo</h2>
 
