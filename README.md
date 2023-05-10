@@ -10,7 +10,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://bertverbanck.be/img/projects/corona.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://bertverbanck.be/img/projects/corona.png" alt="project-screenshot" width="50%">
 
   
   
