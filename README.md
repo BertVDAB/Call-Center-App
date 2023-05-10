@@ -14,12 +14,6 @@
 <h2>🚀 Demo</h2>
 
 [https://bertverbanck.be/call-center-app](https://bertverbanck.be/call-center-app)
-
-<h2>Project Screenshots:</h2>
-
-<img src="https://bertverbanck.be/img/projects/corona.png" alt="project-screenshot" width="50%">
-
-  
   
 <h2>🧐 Features</h2>
 
