@@ -3,7 +3,7 @@
 <p>When working for a callcenter, after the call, you have to leave a message in the file log, so when another operator calls, they get information about the file state<br><br>
  For example: how many times the person has been called, how many voicemails, and other relevant information, so the person does not have to explain everything every call</p>
 
-<p id="description"><b>Logging made easy -&gt; Stop repetitive typing -&gt; Click and paste!</b><br><br> For example, the company wants you to leave a message in the log input: "02/12 14:34 Called person did not reply left voicemail"<br> Why keep typing this every call you make? You can make typos forget date and time... <br><br>Automate it with the click of a button.</p>
+<p id="description"><b>Logging made easy -&gt; Stop repetitive typing -&gt; Click and paste!</b><br><br> For example, the company wants you to leave a message in the log input, in a company wide used format, for example: "02/12 14:34 Called person did not reply left voicemail"<br> Why keep typing this every call you make? You can make typos forget date and time... <br><br>Automate it with the click of a button.</p>
 
 <p>
 
