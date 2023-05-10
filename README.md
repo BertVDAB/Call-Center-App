@@ -1,5 +1,7 @@
 <h1 align="center" id="title">Call Center App</h1>
 
+<p align="center"><img src="https://bertverbanck.be/img/projects/corona.png" alt="project-image"></p>
+
 <h3><b>Logging made easy -&gt; Stop repetitive typing -&gt; Click and paste!</b></h3>
 
 <p>While working for a callcenter, after the call, you have to leave a message in the file log, so when another operator calls, or the person calls back, they get information about the file state<br><br>
