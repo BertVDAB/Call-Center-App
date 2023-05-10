@@ -23,7 +23,9 @@ Here're some of the project's best features:
 
 *   Press a button and watch the magic -> The right text to put in your log input is copied to your clipboard!
 *   Use custom fields and stop typing the same over and over!
-*   With date or without date possible
+*   With or without date and time format possible
+*   Customize the buttons (show/hide)
+*   Stats tracker   
 
   
   
