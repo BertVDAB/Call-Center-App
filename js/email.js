@@ -1,0 +1,1 @@
+document.write('<input type="text" id="email" value="noreply@tracing-coronavirus.be">');

@@ -1,0 +1,1 @@
+document.write('<input type="text" id="closedwithdata" value="' + today + ' Dossier overlopen, dossier ok, Closed with data ">');

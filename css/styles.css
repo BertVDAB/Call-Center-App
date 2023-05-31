@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    text-align: center;
+    background-color: grey;
+}
+
+button {
+    width: 100%;
+    border-radius: 12px;
+    padding: 20px;
+    margin: 0px;
+    border-color: white;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 1px;
+    color: white;
+    border-color: white;
+}
+
+h4 {
+    color: white;
+}
+
+#green {
+    background-color: lightgreen;
+}
+
+#orange {
+    background-color: orange;
+}
+
+.red {
+    background-color: red;
+}
+
+.berts {
+    font-size: 9px;
+}
+
+#infonietposten {
+    width: 50%;
+}
+
+.timestamp {
+    background-color: white;
+}
+
+#logo {
+    padding-top: 30px;
+}
+
+footer {
+    margin-top: 20px;
+    color: white;
+    font-size: medium;
+}

@@ -1,0 +1,1 @@
+document.write('<input type="text" id="badnumber" value="' + today + ' BN">');

@@ -1,0 +1,1 @@
+document.write('<input type="text" id="voicemail" value="' + today + ' VM">');
